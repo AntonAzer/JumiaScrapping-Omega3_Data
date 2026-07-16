@@ -10,3 +10,8 @@ To test the project just run the .py file then import the .csv file as flat file
 
 Note: "Company_SD" is the DB name on SQL Server, it is up to you.
 
+You are required to :
+1. pip install pyodbc sqlalchemy
+2. streamlit run app.py
+it is not an ordinary .py file.
+
